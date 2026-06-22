@@ -1,0 +1,13 @@
+¿Por qué es importante que los proyectos de software mantengan 
+un registro de cambios usando herramientas como Git?
+
+Respuesta:
+Mantener un registro de cambios con Git es importante porque
+permite rastrear cada modificación, facilitando la corrección de 
+errores, el trabajo en equipo sin conflictos y la gestión segura de 
+nuevas funcionalidades.
+Las ventajas de usar un sistema de control de versiones pueden ser:
+- La revisión de errores: Si un cambio rompe el programa, podemos restaurar
+instantáneamente el código a una versión anterior y estable.
+- Trabajo en equipo simultáneo: Permite que varios programadores modifiquen
+el mismo proyecto al mismo tiempo sin sobreescribir el trabajo de los demás

@@ -1,0 +1,19 @@
+Conceptos de Git.
+
+Conceptos:
+
+Repositorio.
+Es el espacio de almacenamiento donde se guardan el código fuente y
+el historial de revisiones de un proyecto. Funciona como una
+especie de base de datos o un sistema de archivos inteligente que
+registra cada cambio realizado.
+
+Commit.
+Es un punto de control o "fotografía" de un proyecto en cierto 
+momento específico. Registra todos los cambios realizados en 
+los archivos y siempre va acompañado de un mensaje descriptivo.
+
+Push.
+Es un comando que se utiliza en git para subir y transferir los commits
+de un repositorio local hacia un repositorio remoto. Básicamente es 
+registrar los cambios en internet para que las personas puedan acceder a ellos.
