@@ -1,0 +1,13 @@
+¿Qué relación encuentras entre el uso responsable de la información en internet, 
+la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+
+Git es una herramienta para el control de versiones, por lo tanto
+nos sirve para organizar y guardar nuestro trabajo de forma eficiente.
+Tales trabajos son completados con investigaciones en diferentes
+fuentes en internet la cual debemos verificar para no cometer errores,
+desinformar y proteger la integridad de las personas que puedan consumir
+nuestras propias obras. Nosotros como ciudadanos (programadores) 
+debemos participar en el desarrollo tecnológico e informativo 
+de nuestro país con nuestras habilidades. Para ello tenemos herramientas
+como git y una ola casi interminable de informacion que debemos clasificar
+y hacer un correcto uso.
