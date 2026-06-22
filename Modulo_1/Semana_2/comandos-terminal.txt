@@ -1,0 +1,10 @@
+Comandos usados en la actividad:
+
+ls
+clear
+cd 
+git status
+git add 
+git commit
+mkdir 
+touch nombre_archivo
