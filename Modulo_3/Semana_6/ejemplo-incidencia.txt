@@ -1,0 +1,11 @@
+Ejemplo de JSON que podría enviar un ciudadano
+para reportar una incidencia:
+
+{
+    "tipo": "Internet",
+    "descripcion": "La comunidad reporta que la señal de internet de la zona es inestable."
+}
+
+El ciudadano especifica el tipo de incidencia y una breve descripción, 
+no se debe olvidar la caracteristica clave-valor con comillas, los puntos 
+para separar las clave-valor y todo ello va en corchetes, separados por comas. 

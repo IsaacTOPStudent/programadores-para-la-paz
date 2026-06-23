@@ -1,0 +1,14 @@
+Respuesta que devuelve el servidor:
+
+El servidor cuando probamos el endpoint /registro con POSTMAN 
+o algún otra aplicación para enviar solicitudes, si enviamos el 
+JSON correctamente, obtenemos un 200 OK con los siguientes campos:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Donde el nombre es cualquiera que especifiquemos, igual el mensaje.
+Estos campos los enviamos a través de un json en la petición. 

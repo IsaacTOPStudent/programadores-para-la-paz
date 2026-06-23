@@ -1,0 +1,13 @@
+¿Por qué es importante que las plataformas tecnológicas puedan recibir reportes 
+o información enviada por los ciudadanos de forma estructurada?
+
+Es importante debido a que la información estructurada permita a las 
+plataformas procesar, analizar y clasificar datos masivos de forma automática. 
+Esto acelera la respuesta institucional, optimiza la asignación de recursos 
+públicos y permite crear mapas interactivos y tableros de control en tiempo 
+real para la toma de decisiones. Los datos organizados en formatos como en JSON
+permiten una mejor adaptación de los datos en las bases de datos, fácil de leer
+para los humanos, además que es un estándar en la web usado por APIs.
+La eficiencia es otra de las caracteristicas, datos desorganizados relentizan 
+el guardado o consulta de los mismos, debido a que se tendrían que limpiar los
+datos para hacerlos amigables y facilitar su análisis.  
