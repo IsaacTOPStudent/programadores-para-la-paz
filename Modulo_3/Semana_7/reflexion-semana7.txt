@@ -1,0 +1,12 @@
+¿Por qué es importante que las comunidades puedan registrar y 
+consultar reportes o incidencias en una plataforma tecnológica?
+
+Es importante porque centralizan la informaicón, garantizan la transparencia
+y reducen los tiempos de respuesta. Permiten a la ciudadanía y a las autoridades 
+georreferenciar problemas, hacerles seguimiento en tiempo real y optimizar la gestión
+de recursos públicos. 
+Al contar con un sistema centralizado, la información queda registrada de manera ordenada 
+y puede ser consultada por los miembros autorizados, evitando la pérdida de datos o la dependencia de la memoria de las personas.
+Las principales ventajas de este tipo de plataformas son la participación
+activa, trazabilidad y transparencia y optimización de recursos. 
+

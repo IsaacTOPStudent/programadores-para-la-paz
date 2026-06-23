@@ -1,0 +1,6 @@
+¿Qué pasa cuando se consultan los reportes?
+
+Cuando se hace la petición get en el endpoint /reportes 
+este nos devuelve un arreglo de objetos con toda la información
+con sus campos id, tipo y descripción. Es una estructura muy
+común para devolver grandes cantidades de objetos de una sola vez. 

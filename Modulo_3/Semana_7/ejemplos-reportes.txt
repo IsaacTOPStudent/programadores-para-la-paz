@@ -1,0 +1,19 @@
+Ejemplos de reportes ciudadanos que pueden registrarse en el sistema.
+Los reportes ciudadanos en este sistema tienen dos campos, 
+el tipo y su descripcion son dos campos que permiten texto. 
+
+Ejemplo:
+Ejemplo 1:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Ambiente",
+  "descripcion": "Acumulación de residuos en una zona comunitaria"
+}
+
+El sistema puede tener gran cantidad de estos objetos porque estan 
+almacenados en un arreglo. 
