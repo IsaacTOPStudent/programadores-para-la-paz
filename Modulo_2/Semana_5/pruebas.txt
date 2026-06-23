@@ -1,0 +1,6 @@
+Tenemos 3 rutas en nuestra apliación, la ruta raíz la cuál
+envía un mensaje que dice que el servidor está activo. 
+Tenemos la ruta saludo que nos muestra el mensaje "Hola comunidad".
+También está la ruta /mensaje/:nombre la cual le pasamos algún texto
+por parámetro y nos devuelve la cadena concatenada Hola con lo que hayamos
+mandado por parámetro, como un nombre.

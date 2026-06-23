@@ -1,0 +1,10 @@
+Explicación ruta /reporte.
+
+La ruta /reporte de nuestra aplicación espera
+la operación post la cual sirve para enviar datos 
+y espera un json con una clave llamada 'mensaje' 
+y su valor un texto. 
+Este tipo de endpoints es importante en aplicaciones 
+comunitarias para poder enviar datos hacia el servidor, 
+esto debido a que en una aplicación no solamente queremos 
+consumir datos, sino producirlos. 
