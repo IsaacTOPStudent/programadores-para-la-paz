@@ -1,0 +1,22 @@
+Prácticas de seguridad que deberían aplicarse en una plataforma digital comunitaria.
+
+Para garantizar una plataforma digital comunitaria segura, es indispensable implementar
+una estrategia en tres frentes: técnico, normativo y humano. 
+
+Seguridad técnica y privacidad: 
+Cifrado de datos: Toda la información transmitida, en especial datos personales debe
+estar protegida mediante HTTPS para evitar interceptaciones. 
+Autenticación robusta: Obligar al uso de contraseñas compleja e impulsar 
+la autenticación en dos pasos para prevenir el robo de cuentas. 
+
+Normas comunitarias y gobernanza:
+Términos y condiciones claros: Redactar un documento público donde se explique
+qué datos se recopilan y cómo se utilizan. 
+Moderación y denuncias: Implementar un sistema de reporte visible y accesible para 
+que los usuarios puedan denunciar comportamientos abusivos. 
+
+Educación y cultura de usuario:
+Guía de bienvenida: Proporcionar a los nuevos miembros un manual báico de 
+buenas prácticas. 
+Privacidad por defecto: Configurar la plataforma para que la información sensible
+de los usuarios permanezca oculta por defecto al público general. 

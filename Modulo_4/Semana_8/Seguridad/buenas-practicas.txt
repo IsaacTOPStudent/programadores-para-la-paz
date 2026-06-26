@@ -1,0 +1,7 @@
+Practicas básicas de seguridad digital:
+1. Contraseñas únicas: usar claves de al menos 12 caracteres mezclando 
+letras, números y símbolos. 
+2. Autenticación de dos factores: Esto añade una segunda capa de seguridad
+para evitar accesos no autorizados.
+3. Actualizaciones constantes: Mentener siempre al día el sistema operativo
+de los dispositivos y aplicaciones. 
