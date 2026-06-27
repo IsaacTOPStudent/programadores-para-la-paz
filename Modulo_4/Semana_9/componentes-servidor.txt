@@ -1,0 +1,23 @@
+Componentes en un servidor.
+
+Sistema operativo: Administra el hardware del servidor 
+y gestiona los recursos esenciales como memoria, almacenamiento
+y procesador. Actúa como la base donde se ejecutan Node.js
+y todos los demás programas del sistema.
+
+Node.js: Entorno de ejecución que permite procesar código
+JavaScript directamente en el servidor fuera del navegador web. 
+Traduce las instrucciones de la aplicación para que el sistema operativo 
+pueda ejecutarlas de forma rápida.
+
+Aplicación server.js: Archivo de texto que contiene el código fuente
+principal escrito por los desarrolladores. Define la lógica del negocio, las rutas 
+de acceso y cómo debe responder el servidor a cada petición.
+
+Puerto: Canal o punto virtual específico de comunicación en una dirección IP 
+para recibir conexiones entrantes. Permite al servidor dirigir el tráfico de 
+internet directamente hacia la aplicación Node.js sin confusiones.
+
+Logs: Archivos de registro histórico que guardan de forma cronológica 
+todo lo que ocurre en el servidor. Registran errores técnicos, 
+accesos de usuarios y eventos críticos necesarios para diagnosticar problemas del sistema.

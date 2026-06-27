@@ -1,0 +1,17 @@
+¿Qué ocurre cuando ejecutas node server.js?
+Cuando ejecutamos node server.js, el comando node 
+ejecuta el archivo JavaScript que en este caso es 
+server.js. Esto levanta el servidor en el puerto 
+asignado. El servidor escucha en el puerto establecido 
+y manda un mensaje en el cual nosotros indicamos si el 
+servidor está ejecutandose. 
+El mensaje que aparece en terminal es "Servidor ejecutándose
+en el puerto 3000".
+Cuando ejecutamos GET en la ruta /estado el servidor nos devuelve
+un objeto con esta estructura:
+
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
+

@@ -1,0 +1,15 @@
+¿Por qué es importante que las plataformas tecnológicas que usan las comunidades 
+funcionen de manera estable y segura en un servidor?
+
+Razones fundamentales de su importancia:
+Garantiza el acceso y la continuidad. 
+Disponibilidad constante: Permite que los usuarios ingresen en cualquier 
+momento, sin importar su zona horaria.
+Resistencia a picos de tráfico: Evita que el sistema colapse cuando muchos miembros 
+se conectan al mismo tiempo para un evento o debate importante.
+
+Protege la privacidad y la integridad.
+Resguardo de identidades: Evita que atacantes accedan al sistema operativo para 
+robar correos, contraseñas o mensajes privados.
+Control de accesos: Asegura que los puertos del servidor solo reciban tráfico 
+legítimo, bloqueando intentos de hackeo o inyecciones de código malicioso.
