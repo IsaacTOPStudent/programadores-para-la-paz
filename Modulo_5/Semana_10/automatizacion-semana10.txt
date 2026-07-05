@@ -1,0 +1,17 @@
+Flujo simple de automatización usando n8n y telegram.
+
+Evento: 
+El evento detonante ocurre cuando el coordinador del proyecto actualiza 
+el estado de una obra (por ejemplo, pasa de "Licitación" a "Ejecución") 
+o publica una nueva fecha clave en el sistema. Al guardarse este cambio, 
+el sistema envía automáticamente una señal con los datos del proyecto a n8n.
+
+Mensaje:
+Se enviaría un mensaje claro, directo y de formato público al canal o grupo de la veeduría comunitaria.
+Ejemplo: Título, nombre del proyecto, nombre del evento, fecha, responsable. 
+
+Información que no debe enviarse:
+Datos personales sensibles: Correos electrónicos, números de teléfono o identificaciones de los ciudadanos 
+o veedores que hicieron comentarios.
+Credenciales técnicas: Tokens de acceso, llaves de API, contraseñas de las bases de datos o enlaces a servidores 
+de desarrollo internos.

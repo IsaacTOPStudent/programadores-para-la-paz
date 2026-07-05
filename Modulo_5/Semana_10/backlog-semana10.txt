@@ -1,0 +1,16 @@
+Historias de usuario relacionadas con una solución comunitaria
+o veeduría.
+
+1. Como coordinador del proyecto, quiero marcar las fechas clave
+en un calendario público, para facilitar la labor de inspección de 
+los veedores comunitarios. 
+
+2. Como ciudadano suscrito, quiero recibir alertas en mi correo
+electrónico cuando un proyecto de mi entorno cambie de fase o 
+presente una nueva licitación, para estar al tanto de los cambios
+en mi comunidad. 
+
+3. Como veedor o líder comunitario, quiero dejar comentarios
+o preguntas técnicas directamente en la ficha del proyecto, para
+obtener respuestas claras de contratistas o entidades gubernamentales. 
+
