@@ -1,0 +1,20 @@
+Interfaz simple para una plataforma de veeduría. 
+
+Panel de Creación: Formulario para Crear una Causa
+Ubicado en la parte superior o en una pestaña destacada, este formulario permite proponer nuevas iniciativas de veeduría.
+
+Campos de texto claros: Incluye cajas de entrada sencillas para el Título (breve y directo) y la Descripción (detalle del problema o iniciativa).
+Selector de Fecha: Un calendario desplegable para definir la fecha de inicio o el límite de la veeduría.
+Botón de Acción: Un botón visible que diga "Publicar Causa".
+
+Panel Principal: Vista de Causas Disponibles
+Es el muro central de la plataforma donde la comunidad se informa sobre los procesos activos.
+
+Tarjetas Independientes (Cards): Cada causa se visualiza dentro de un recuadro limpio que la separa de las demás.
+Contenido Visible: Cada tarjeta muestra el título en negrita, la descripción corta, la fecha de registro y las tareas clave asociadas.
+
+Panel de Interacción: Botón y Contador de Apoyos
+Integrado en la esquina inferior de cada tarjeta de causa para fomentar la participación comunitaria.
+
+Contador de Apoyos: Un icono visual (como una mano arriba o una estrella) seguido de un número grande y claro
+Botón de Acción Directa: Un botón con el texto "Apoyar Causa" que cambia de color (por ejemplo, de gris a azul) una vez que el usuario hace clic en él.

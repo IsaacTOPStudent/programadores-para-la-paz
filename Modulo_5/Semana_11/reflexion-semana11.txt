@@ -1,0 +1,11 @@
+¿Por qué una plataforma tecnológica que promueve participación ciudadana debe tener base de datos, autenticación de usuarios y protección de información?
+
+Una plataforma tecnológica de participación ciudadana necesita estos tres componentes técnicos
+no solo por funcionalidad, sino para garantizar que la legitimidad del control social y la integridad 
+de quienes participan. 
+Sin una base de datos, la plataforma sería un sitio web estático donde la información
+se borraría al cerrar el navegador. 
+La autenticación valida que quienes participan sean personas reales, protegiendo los 
+procesos comunitarios de ataques externos. 
+Las plataformas de veeduría suelen manejar denuncias contra actores de alta influencia, lo que 
+convierte a la ciberseguridad y la privacidad en una prioridad innegociable. 
