@@ -1,0 +1,26 @@
+Entidad: Tarea_Veeduria
+Campos principales:
+id 
+causa_id 
+titulo 
+descripcion 
+estado (Por hacer, En progreso, Revisión, Completado)
+fecha_limite 
+responsable_id (Usuario asignado a la tarea)
+
+Propósito:Gestionar el backlog comunitario e iteraciones del equipo. 
+Permite dividir una causa grande en acciones concretas y visibles para asegurar 
+que el trabajo avance de forma organizada.
+
+Entidad: Evidencia_Transparencia
+Campos principales:
+id 
+tarea_id (Relación con la tarea completada)
+tipo_archivo 
+url_archivo (Ruta de almacenamiento seguro del documento)
+fecha_carga 
+verificado_por (Usuario con rol de revisor que valida la información)
+
+Propósito:Almacenar las pruebas, contratos, fotos o documentos recolectados por la veeduría. 
+Esto garantiza el control de calidad, la revisión humana antes de publicar información sensible 
+y el respaldo legal de las denuncias.

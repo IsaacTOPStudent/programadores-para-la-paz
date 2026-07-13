@@ -1,0 +1,7 @@
+Describe en pasos simples cómo funcionaría el sistema Petición en 3 Clics.
+
+1. Un ciudadano crea una causa con su título y el contenido.
+2. La causa se guarda en una base de datos para poder ser consultada. 
+3. Los demás usuarios pueden consultar la causa y poder apoyarla.
+4. El sistema registra la cantidad de apoyos, comentarios para poder organizar la información
+5. El sistema genera documentos PDF con las distintas peticiones, para poder ser presentadas. 
